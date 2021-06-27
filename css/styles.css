@@ -529,7 +529,7 @@ body {
   color: var(--alpha);
   border-color: var(--alpha-border);
   background-color: var(--accent-page-color);
-  box-shadow: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
 
 .email-button {
