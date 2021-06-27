@@ -404,6 +404,7 @@ body {
 .social-account {
   display: flex;
   justify-content: center;
+  align-items: center;
   height: 44px;
   width: 44px;
   border-radius: 50%;
@@ -415,6 +416,7 @@ body {
 
 .social-logo {
   width: 20px;
+  height: 20px;
   fill: currentColor;
 }
 
